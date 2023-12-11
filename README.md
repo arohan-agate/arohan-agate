@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arohan-agate
-- 👀 I’m interested in learning more about computer science
-- 🌱 I’m currently learning the MERN stack
+- 👀 I’m studying computer science at the University of Washington
+- 🌱 I’m currently learning full-stack development
 - 📫 My email address is aagate@cs.washington.edu
 
 <!---
