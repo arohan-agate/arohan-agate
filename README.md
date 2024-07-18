@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arohan-agate
 - 👀 I’m studying computer science at the University of Washington
-- 🌱 I’m currently learning full-stack development
 - 📫 My email address is aagate@cs.washington.edu
 
 <!---
